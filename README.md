@@ -1,3 +1,7 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=70&animation=fadeIn&fontAlignY=38&desc=my%20Github%20profile&descAlignY=51&descAlign=62"/>
+</p>
+
 ```typescript
 const me = {
   username: "Lee Gunhee",

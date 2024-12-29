@@ -8,7 +8,7 @@
 const me = {
   username: "Lee Gunhee",
   nickname: "suzukaotto",
-  website: "Comming soon . . .",
+  website: "https://szk.kr",
   github: "https://github.com/suzukaotto",
   email: "me@szk.kr",
 }

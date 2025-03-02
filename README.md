@@ -6,13 +6,13 @@
 
 ```typescript
 const me = {
-  username: "Lee Gunhee",
-  nickname: "suzukaotto",
-  website: "https://szk.kr",
-  github: "https://github.com/suzukaotto",
-  email: "me@szk.kr",
+  username: {"ko": "이건희", "us": "Lee Geohee"},
+  nickname: "szkotgh",
+  website: "https://gunhee.kr",
+  github: "https://github.com/szkotgh",
+  email: "me@gunhee.kr",
 }
 ```
 
-[![suzukaotto's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzukaotto&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+[![szkotgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=szkotgh&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 [![My Skills](https://skillicons.dev/icons?i=python,raspberrypi,arduino,dotnet,cpp,cs,ts,)](https://skillicons.dev)<br>

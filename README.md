@@ -6,7 +6,7 @@
 
 ```typescript
 const me = {
-  username: {"ko": "이건희", "us": "Lee Geohee"},
+  username: {"ko": "이건희", "us": "Lee Geonhee"},
   nickname: "szkotgh",
   website: "https://gunhee.kr",
   github: "https://github.com/szkotgh",

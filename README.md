@@ -15,4 +15,4 @@ const me = {
 ```
 
 [![szkotgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=szkotgh&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-[![My Skills](https://skillicons.dev/icons?i=python,raspberrypi,arduino,dotnet,cpp,cs,ts,)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=python,raspberrypi,dotnet,cs,ts,)](https://skillicons.dev)<br>

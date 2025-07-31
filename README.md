@@ -13,6 +13,6 @@ const me = {
   email: "me@gunhee.kr",
 }
 ```
-
+[![My Skils](https://skillicons.dev/icons?i=java,python,cs,js,ts,spring,react,flask,fastapi,django,vscode,postman,figma,notion,ai)](https://skillicons.dev)<br><br>
 [![szkotgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=szkotgh&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-[![My Skils](https://skillicons.dev/icons?i=java,python,cs,js,ts,spring,react,flask,fastapi,django,vscode,postman,figma,notion,ai)](https://skillicons.dev)<br>
+

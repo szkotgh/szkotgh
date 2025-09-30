@@ -2,8 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=70&animation=fadeIn&fontAlignY=38&desc=to%20my%20Github%20profile&descAlignY=51&descAlign=62"/>
 </p>
 
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=szkotgh)](https://github.com/marshallku/gitgarden)
-
 <!-- <h3 align='center'>Hello there, I'm Software&Hardware Engineer Lee Geonhee</h3><br> -->
 
 ```typescript
